@@ -5,4 +5,6 @@ body {
 .navbarposition {
   display: flex;
   justify-content: flex-end;
+  background-color: red;
+  background-color: #f8f9fa;
 }
