@@ -24,6 +24,11 @@
   height: 3rem;
   border-radius: 0.75rem;
 }
-.text-body-emphasis {
-  color: black !important;
+
+.col-md-6 {
+  background-color: white;
+}
+.bg-body-tertiary {
+  background-color: #212529 !important;
+  color: white;
 }
