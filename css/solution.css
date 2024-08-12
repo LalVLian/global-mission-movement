@@ -21,16 +21,3 @@
   height: 3rem;
   border-radius: 0.75rem;
 }
-
-.profile-img {
-  border-radius: 50%;
-  height: 100px;
-}
-
-.col-lg-6 {
-  color: white;
-}
-
-.text-body-emphasis {
-  color: white !important;
-}

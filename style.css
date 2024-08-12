@@ -1,0 +1,29 @@
+.gradient-background {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(9, 9, 121, 1) 35%,
+    rgba(0, 212, 255, 1) 100%
+  );
+}
+.profile-img {
+  border-radius: 50%;
+  height: 100px;
+}
+
+.col-lg-6 {
+  color: white;
+}
+
+.col-lg-6 > .text-body-emphasis {
+  color: white !important;
+}
+.icon-square {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 0.75rem;
+}
+.text-body-emphasis {
+  color: black !important;
+}
